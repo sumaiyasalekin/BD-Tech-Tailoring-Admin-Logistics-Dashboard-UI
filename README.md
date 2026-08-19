@@ -29,4 +29,5 @@ An enterprise administration dashboard designed for custom tailoring platforms t
 | **Badges & Tags** | Status Indicators (`Pending`, `In Transit`, `Active`, `Inactive`) |
 
 ## 👤 Author
+**Muntasir Mamun Sakib**
 **Sumaiya Salekin Saba**

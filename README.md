@@ -19,6 +19,14 @@ An enterprise administration dashboard designed for custom tailoring platforms t
 * **Design Tool:** Figma (Auto Layout, Component Variants, Dynamic Dropdowns)
 * **Suggested Tech Stack:** React / Next.js, Tailwind CSS, TypeScript, Shadcn UI / Radix UI
 
+## 🎨 Figma Prototype
+
+The complete interface was designed and prototyped in **Figma**, focusing on usability, visual hierarchy, and an intuitive admin workflow.
+
+🔗 **[View Interactive Figma Prototype](https://www.figma.com/proto/DAnP6RfObBujcRgfh0X3kr/Content-Management?node-id=3-5&p=f&t=ceuiTMNfrfWfTXfo-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A5)**
+
+> Click the link above to explore the interactive prototype.
+
 ##  Design Components Included
 
 | Component Category | Included Elements |
